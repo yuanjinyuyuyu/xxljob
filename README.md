@@ -1,5 +1,8 @@
 # xxljob
 
+#fofa：title=”任务调度中心”
+#案例：http://34.205.14.218
+
 Usage:
 python3 xxljob.py -h, --help
 python3 xxljob.py -u URL, --url URL
